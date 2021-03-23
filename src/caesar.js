@@ -3,6 +3,9 @@
 // Only add code (e.g., helper methods, variables, etc.) within the scope
 // of the anonymous function on line 6
 
+const caesarModule = (function () {
+  // you can add any code you want within this function scope
+  
 function caesar(input, shift, encode = true) {
   try {
     if (!input) throw "ERROR: No input provided!";
