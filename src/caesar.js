@@ -24,5 +24,5 @@ function caesar(input, shift, encode = true) {
     return `ERROR: ${error}`;
   }
 }
-
+})();
 module.exports = caesar;
