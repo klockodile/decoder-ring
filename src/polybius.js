@@ -67,4 +67,5 @@ const polybiusModule = (function () {
     }
   }
 })();
-module.exports = polybius;
+
+module.exports = polybiusModule.polybius;
