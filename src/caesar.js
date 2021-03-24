@@ -26,7 +26,10 @@ function caesar(input, shift, encode = true) {
   } catch (error) {
     return `ERROR: ${error}`;
   }
-}
+  
+  return{ 
+    caesar,
+  };
 })();
 
 
