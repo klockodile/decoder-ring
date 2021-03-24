@@ -66,6 +66,7 @@ const polybiusModule = (function () {
       return output.slice(0, -1);
     }
   }
+  return{ polybius,};
 })();
 
 module.exports = polybiusModule.polybius;
