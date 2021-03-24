@@ -28,4 +28,6 @@ function caesar(input, shift, encode = true) {
   }
 }
 })();
-module.exports = caesar;
+
+
+module.exports = caesarModule.caesar;
