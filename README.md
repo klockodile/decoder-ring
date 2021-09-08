@@ -1,3 +1,3 @@
 # decoder-ring
 
-to do: readme 
+note to self: do readme
